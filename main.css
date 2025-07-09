@@ -119,6 +119,10 @@ body {
     color: #2196f3;
 }
 
+.face.back i {
+    color: #333;
+}
+
 /* Responsive */
 @media (max-width: 900px) {
     .memory-game-blocks {
